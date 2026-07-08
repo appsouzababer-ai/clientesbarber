@@ -1,0 +1,23 @@
+{
+  "name": "Souza Barbershop",
+  "short_name": "Souza",
+  "description": "Agendamento Souza Barbershop",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://horizons-cdn.hostinger.com/bce31fec-2f76-45b7-b2c8-e61f2bc97c96/40caa6f9f16d584a9e5f626f8067a66f.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://horizons-cdn.hostinger.com/bce31fec-2f76-45b7-b2c8-e61f2bc97c96/40caa6f9f16d584a9e5f626f8067a66f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
